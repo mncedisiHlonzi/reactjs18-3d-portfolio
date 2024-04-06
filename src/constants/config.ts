@@ -70,8 +70,8 @@ export const config: TConfig = {
       content: `I'm a highly skilled software developer, I specialize in TypeScript and JavaScript, boasting expertise in frameworks such as React, Node.js, and Three.js. Alongside these, I possess proficiency in a diverse range of programming languages including Java, C#, Python, and PHP, as well as cross-platform technologies like Flutter and Ionic. With a strong aptitude for learning, I excel in collaborating closely with clients to craft efficient, scalable, and user-friendly solutions that address real-world challenges. Let's join forces to transform your ideas into dynamic, impactful realities !`,
     },
     experience: {
-      p: "What I have done so far",
-      h2: "Work Experience.",
+      p: "Proficient in diverse tech stacks",
+      h2: "Full Stack.",
     },
     feedbacks: {
       p: "What others say",
