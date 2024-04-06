@@ -25,12 +25,12 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import java from "./company/java.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import player from "./player.png";
-import java from "./java.png";
 
 export {
   logo,
@@ -54,6 +54,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  java,
   meta,
   shopify,
   starbucks,
@@ -62,5 +63,4 @@ export {
   jobit,
   tripguide,
   player,
-  java,
 };
