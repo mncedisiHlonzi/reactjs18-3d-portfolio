@@ -6,6 +6,9 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import website from "./website.png";
+import software from "./software.png";
+import data from "./data.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -71,4 +74,7 @@ export {
   javascrip,
   csharp,
   firebase,
+  website,
+  software,
+  data,
 };

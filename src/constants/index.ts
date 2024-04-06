@@ -38,6 +38,9 @@ import {
   firebase,
   javascrip,
   csharp,
+  website,
+  software,
+  data,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
