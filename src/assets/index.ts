@@ -26,6 +26,10 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import java from "./company/java.png";
+import flutter from "./company/flutter.png";
+import firebase from "./company/firebase.png";
+import csharp from "./company/csharp.png";
+import javascript-II from "./company/javascript-II.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
