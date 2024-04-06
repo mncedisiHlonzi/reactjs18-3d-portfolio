@@ -32,6 +32,8 @@ import {
   jobit,
   tripguide,
   threejs,
+  player,
+  java,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -127,7 +129,7 @@ const experiences: TExperience[] = [
   {
     title: "React.js Developer",
     companyName: "Starbucks",
-    icon: starbucks,
+    icon: java,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
@@ -181,23 +183,23 @@ const experiences: TExperience[] = [
 const testimonials: TTestimonial[] = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+      "Your passion for crafting exceptional software that not only meet but exceed their expectations is remarkable.",
+    name: "TP Mbutho",
+    designation: "Data Analyst",
+    company: "Suicide Squad",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+      "Your commitment to developing stellar websites that truly resonate with our clients hasn't gone unnoticed",
+    name: "ZH Madlala",
+    designation: "Programmer",
+    company: "Suicide Squad",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Mncedisi, your client-centric mindset is a breath of fresh air, and your hard work doesn't go unnoticed, shoutout to you!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
