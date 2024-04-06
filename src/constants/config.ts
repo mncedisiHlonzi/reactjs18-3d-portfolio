@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Mncedisi Hlonzi — Portfolio",
+    fullName: "Mncedisi Hlonzi",
+    email: "mncedisinhlonzi37@mail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Mncedisi",
+    p: ["Crafting Digital Solutions", "Unleashing creativity through the Power of Code"],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +67,7 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I'm a highly skilled software developer, I specialize in TypeScript and JavaScript, boasting expertise in frameworks such as React, Node.js, and Three.js. Alongside these, I possess proficiency in a diverse range of programming languages including Java, C#, Python, and PHP, as well as cross-platform technologies like Flutter and Ionic. With a strong aptitude for learning, I excel in collaborating closely with clients to craft efficient, scalable, and user-friendly solutions that address real-world challenges. Let's join forces to transform your ideas into dynamic, impactful realities !`,
     },
     experience: {
       p: "What I have done so far",
@@ -84,11 +80,7 @@ export const config: TConfig = {
     works: {
       p: "My work",
       h2: "Projects.",
-      content: `Following projects showcases my skills and experience through
-    real-world examples of my work. Each project is briefly described with
-    links to code repositories and live demos in it. It reflects my
-    ability to solve complex problems, work with different technologies,
-    and manage projects effectively.`,
+      content: `The projects in my portfolio illustrate my ability to solve complex problems, work with diverse technologies, and manage projects effectively, showcasing real-world examples of my skills and experience.`,
     },
   },
 };
