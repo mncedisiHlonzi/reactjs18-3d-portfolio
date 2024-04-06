@@ -34,6 +34,10 @@ import {
   threejs,
   player,
   java,
+  flutter,
+  firebase,
+  javascrip,
+  csharp,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -128,8 +132,8 @@ const technologies: TTechnology[] = [
 const experiences: TExperience[] = [
   {
     title: "React.js Developer",
-    companyName: "Starbucks",
-    icon: java,
+    companyName: "Flutter",
+    icon: flutter,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
@@ -141,8 +145,8 @@ const experiences: TExperience[] = [
   },
   {
     title: "React Native Developer",
-    companyName: "Tesla",
-    icon: tesla,
+    companyName: "Firebase",
+    icon: firebase,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -154,8 +158,8 @@ const experiences: TExperience[] = [
   },
   {
     title: "Web Developer",
-    companyName: "Shopify",
-    icon: shopify,
+    companyName: "JavaScript",
+    icon: javascrip,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
@@ -167,8 +171,8 @@ const experiences: TExperience[] = [
   },
   {
     title: "Full stack Developer",
-    companyName: "Meta",
-    icon: meta,
+    companyName: "C#",
+    icon: csharp,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
