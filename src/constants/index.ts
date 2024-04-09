@@ -34,6 +34,8 @@ import {
   threejs,
   player,
   java,
+  school,
+  sms,
   flutter,
   firebase,
   javascrip,
@@ -69,7 +71,7 @@ const services: TService[] = [
   },
   {
     title: "Database developer",
-    icon: backend,
+    icon: data,
   },
 ];
 
@@ -229,7 +231,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: sms,
     sourceCodeLink: "https://github.com/",
   },
   {
@@ -250,7 +252,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: school,
     sourceCodeLink: "https://github.com/",
   },
   {

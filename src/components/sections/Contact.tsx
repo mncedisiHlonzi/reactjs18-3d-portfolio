@@ -41,9 +41,9 @@ const Contact = () => {
         emailjsConfig.serviceId,
         emailjsConfig.templateId,
         {
-          form_name: form.name,
+          from_name: form.name, // Pass the user's name as from_name
+          from_email: form.email, // Pass the user's email as from_email
           to_name: config.html.fullName,
-          from_email: form.email,
           to_email: config.html.email,
           message: form.message,
         },
