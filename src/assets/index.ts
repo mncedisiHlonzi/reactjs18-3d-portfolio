@@ -40,6 +40,8 @@ import tripguide from "./tripguide.png";
 import player from "./player.png";
 import school from "./school.png";
 import sms from "./sms.png";
+import madlala from "./madlala.jpg";
+import mbutho from "./mbutho.jpg";
 
 export {
   logo,
@@ -72,6 +74,8 @@ export {
   jobit,
   tripguide,
   player,
+  sms,
+  school,
   flutter,
   javascrip,
   csharp,
@@ -79,4 +83,6 @@ export {
   website,
   software,
   data,
+  madlala,
+  mbutho,
 };

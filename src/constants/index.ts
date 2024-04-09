@@ -43,6 +43,8 @@ import {
   website,
   software,
   data,
+  madlala,
+  mbutho,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -192,7 +194,7 @@ const testimonials: TTestimonial[] = [
     name: "TP Mbutho",
     designation: "Data Analyst",
     company: "Suicide Squad",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: mbutho,
   },
   {
     testimonial:
@@ -200,34 +202,34 @@ const testimonials: TTestimonial[] = [
     name: "ZH Madlala",
     designation: "Programmer",
     company: "Suicide Squad",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: madlala,
   },
   {
     testimonial:
       "Mncedisi, your client-centric mindset is a breath of fresh air, and your hard work doesn't go unnoticed, shoutout to you!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+    name: "T Mjoka",
+    designation: "Technician",
+    company: "Suicide Squad",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];
 
 const projects: TProject[] = [
   {
-    name: "Car Rent",
+    name: "SM System",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A powerful School Management System designed to streamline administrative tasks and enhance communication within educational institutions.",
     tags: [
       {
-        name: "react",
+        name: "Dart",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Hive",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Flutter",
         color: "pink-text-gradient",
       },
     ],
@@ -235,16 +237,16 @@ const projects: TProject[] = [
     sourceCodeLink: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Lyric Galleria",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A dynamic web music player that brings your favorite tunes to life with just a click. Seamlessly search, play, and organize your music library with our intuitive interface.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "NodeJS",
         color: "green-text-gradient",
       },
       {
@@ -252,20 +254,20 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: school,
+    image: player,
     sourceCodeLink: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "SHS Website",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "School's innovative website, meticulously crafted to serve as the digital hub for Shengeza High School community, tailored to enhance the educational journey for the learners.",
     tags: [
       {
-        name: "nextjs",
+        name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
@@ -273,7 +275,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: school,
     sourceCodeLink: "https://github.com/",
   },
 ];
