@@ -47,6 +47,7 @@ import {
   mbutho,
   usern,
   python,
+  scebi,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -205,10 +206,10 @@ const testimonials: TTestimonial[] = [
   {
     testimonial:
       "Mncedisi, your client-centric mindset is a breath of fresh air, and your hard work doesn't go unnoticed, shoutout to you!",
-    name: "T Mjoka",
-    designation: "Technician",
+    name: "T Zungu",
+    designation: "Programmer",
     company: "Suicide Squad",
-    image: usern,
+    image: scebi,
   },
 ];
 
@@ -232,7 +233,7 @@ const projects: TProject[] = [
       },
     ],
     image: sms,
-    sourceCodeLink: "#",
+    sourceCodeLink: "https://mncedisihlonzi.github.io/launching-soon/",
   },
   {
     name: "Lyric Galleria",
@@ -253,7 +254,7 @@ const projects: TProject[] = [
       },
     ],
     image: player,
-    sourceCodeLink: "#",
+    sourceCodeLink: "https://mncedisihlonzi.github.io/launching-soon/",
   },
   {
     name: "SHS Website",

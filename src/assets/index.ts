@@ -48,6 +48,7 @@ import star from "./star.png";
 import tick from "./tick.png";
 import link from "./link.png";
 import linkc from "./linkc.png";
+import scebi from "./scebi.jpg";
 
 export {
   logo,
@@ -97,4 +98,5 @@ export {
   madlala,
   mbutho,
   usern,
+  scebi,
 };
