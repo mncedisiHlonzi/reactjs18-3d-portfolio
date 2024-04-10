@@ -23,12 +23,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.png";
+import python from "./tech/python.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import java from "./company/java.png";
 import flutter from "./company/flutter.png";
 import firebase from "./company/firebase.png";
 import csharp from "./company/csharp.png";
@@ -42,6 +43,11 @@ import school from "./school.png";
 import sms from "./sms.png";
 import madlala from "./madlala.jpg";
 import mbutho from "./mbutho.jpg";
+import usern from "./usern.png";
+import star from "./star.png";
+import tick from "./tick.png";
+import link from "./link.png";
+import linkc from "./linkc.png";
 
 export {
   logo,
@@ -52,20 +58,25 @@ export {
   github,
   menu,
   close,
+  link,
+  linkc,
   css,
   docker,
   figma,
   git,
+  tick,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
   redux,
+  star,
   tailwind,
   typescript,
   threejs,
   java,
+  python,
   meta,
   shopify,
   starbucks,
@@ -85,4 +96,5 @@ export {
   data,
   madlala,
   mbutho,
+  usern,
 };

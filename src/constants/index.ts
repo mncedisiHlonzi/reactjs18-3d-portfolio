@@ -45,6 +45,8 @@ import {
   data,
   madlala,
   mbutho,
+  usern,
+  python,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -64,7 +66,7 @@ export const navLinks: TNavLink[] = [
 
 const services: TService[] = [
   {
-    title: "Web Developer",
+    title: "Website Developer",
     icon: website,
   },
   {
@@ -99,8 +101,8 @@ const technologies: TTechnology[] = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Java",
+    icon: java,
   },
   {
     name: "Tailwind CSS",
@@ -115,8 +117,8 @@ const technologies: TTechnology[] = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Python",
+    icon: python,
   },
   {
     name: "git",
@@ -125,10 +127,6 @@ const technologies: TTechnology[] = [
   {
     name: "figma",
     icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
   },
 ];
 
@@ -210,7 +208,7 @@ const testimonials: TTestimonial[] = [
     name: "T Mjoka",
     designation: "Technician",
     company: "Suicide Squad",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: usern,
   },
 ];
 
@@ -234,7 +232,7 @@ const projects: TProject[] = [
       },
     ],
     image: sms,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "#",
   },
   {
     name: "Lyric Galleria",
@@ -255,7 +253,7 @@ const projects: TProject[] = [
       },
     ],
     image: player,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "#",
   },
   {
     name: "SHS Website",
@@ -276,7 +274,7 @@ const projects: TProject[] = [
       },
     ],
     image: school,
-    sourceCodeLink: "https://github.com/",
+    sourceCodeLink: "https://shengez.co.za/",
   },
 ];
 
